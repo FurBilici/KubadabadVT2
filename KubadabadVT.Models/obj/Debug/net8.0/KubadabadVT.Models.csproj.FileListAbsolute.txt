@@ -1,0 +1,14 @@
+C:\Users\furbi\source\repos\KubadabadVT.Models\bin\Debug\net8.0\KubadabadVT.Models.deps.json
+C:\Users\furbi\source\repos\KubadabadVT.Models\bin\Debug\net8.0\KubadabadVT.Models.runtimeconfig.json
+C:\Users\furbi\source\repos\KubadabadVT.Models\bin\Debug\net8.0\KubadabadVT.Models.dll
+C:\Users\furbi\source\repos\KubadabadVT.Models\bin\Debug\net8.0\KubadabadVT.Models.pdb
+C:\Users\furbi\source\repos\KubadabadVT.Models\obj\Debug\net8.0\KubadabadVT.Models.csproj.AssemblyReference.cache
+C:\Users\furbi\source\repos\KubadabadVT.Models\obj\Debug\net8.0\KubadabadVT.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furbi\source\repos\KubadabadVT.Models\obj\Debug\net8.0\KubadabadVT.Models.AssemblyInfoInputs.cache
+C:\Users\furbi\source\repos\KubadabadVT.Models\obj\Debug\net8.0\KubadabadVT.Models.AssemblyInfo.cs
+C:\Users\furbi\source\repos\KubadabadVT.Models\obj\Debug\net8.0\KubadabadVT.Models.csproj.CoreCompileInputs.cache
+C:\Users\furbi\source\repos\KubadabadVT.Models\obj\Debug\net8.0\KubadabadVT.Models.dll
+C:\Users\furbi\source\repos\KubadabadVT.Models\obj\Debug\net8.0\refint\KubadabadVT.Models.dll
+C:\Users\furbi\source\repos\KubadabadVT.Models\obj\Debug\net8.0\KubadabadVT.Models.pdb
+C:\Users\furbi\source\repos\KubadabadVT.Models\obj\Debug\net8.0\KubadabadVT.Models.genruntimeconfig.cache
+C:\Users\furbi\source\repos\KubadabadVT.Models\obj\Debug\net8.0\ref\KubadabadVT.Models.dll
